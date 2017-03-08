@@ -6,7 +6,7 @@
 
 Editing a readme file is very interesting. You can use various editors to edit the readme file
 
-#This is a heading
+#MySwaasth project setup
 
 
 **This is a bold text**
