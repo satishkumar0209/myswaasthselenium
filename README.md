@@ -1,3 +1,9 @@
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [This is a heading](#)
+- [This is a heading2](#)
+
 Editing a readme file is very interesting. You can use various editors to edit the readme file
 
 #This is a heading
