@@ -26,11 +26,11 @@ System.out.println("This is a code")}
 This is link to [MySwaasth](https://myswaasth.com/home/dashboard)
 
 
-This is a list 
+Setup
 
-*List1
+*Tools
 
-*List2
+*Languages
 
 *List3
 
