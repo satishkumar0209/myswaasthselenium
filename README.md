@@ -3,6 +3,10 @@
 
 - [Setup](https://github.com/satishkumar0209/myswaasthselenium/blob/master/README.md#this-is-a-heading)
 - [Languages](https://github.com/satishkumar0209/myswaasthselenium/blob/master/README.md#this-is-a-heading2)
+- [Starting Sections](https://github.com/satishkumar0209/myswaasthselenium/blob/master/README.md#this-is-a-heading2)
+- [System Under Test](https://github.com/satishkumar0209/myswaasthselenium/blob/master/README.md#this-is-a-heading2)
+- [Running Tests](https://github.com/satishkumar0209/myswaasthselenium/blob/master/README.md#this-is-a-heading2)
+
 
 Editing a readme file is very interesting. You can use various editors to edit the readme file
 
